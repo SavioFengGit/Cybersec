@@ -230,4 +230,7 @@ La schermata che ci si presenterà davanti sarà la seguente:
     
     
 ### Autori
-Savio, Luca, Giorgia e Luigi
+Savio<br>
+Luca<br>
+Giorgia<br>
+Luigi
