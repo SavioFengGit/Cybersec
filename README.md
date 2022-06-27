@@ -227,3 +227,10 @@ La schermata che ci si presenterà davanti sarà la seguente:
 
     Possiamo vederne un esempio di esecuzione nella seguente figura:
     ![](github%20pictures%20for%20README/22.PNG)
+    
+    
+### Autori
+Savio
+Luca
+Giorgia
+Luigi
