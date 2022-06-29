@@ -1,3 +1,5 @@
+<b>Digitalization-with-BlockChain-and-Smart-Contract<b> <br>
+Repository for my Software Cybersec Project
 # CyberSecurity
 Il progetto realizzato consiste nell’implementazione di un sistema che permetta di digitalizzare in maniera sicura i dati relativi ad un cantiere edilizio. Per far questo ci siamo serviti di tecnologie e metodi che ci hanno consentito di informatizzare il sistema di registrazione delle informazioni sul giornale dei lavori al fine di assicurare che il lavoro venga fatto e registrato regolarmente. In particolare, ciò che si dovrà registrare sul giornale dei lavori saranno misure ed immagini (e altre meta-informazioni). 
 
