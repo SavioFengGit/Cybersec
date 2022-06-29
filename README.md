@@ -231,8 +231,6 @@ La schermata che ci si presenterà davanti sarà la seguente:
     ![](github%20pictures%20for%20README/22.PNG)
     
     
-### Autori
-Savio<br>
-Luca<br>
-Giorgia<br>
-Luigi
+### Author
+Xiao Li Savio Feng
+
